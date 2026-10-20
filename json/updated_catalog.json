@@ -1,0 +1,25 @@
+{
+  "catalog": [
+    {
+      "name": "Milk Tea",
+      "price": 5,
+      "prep time": 8
+    },
+    {
+      "name": "Matcha",
+      "price": 275,
+      "prep time": 25,
+      "size": [
+        "small",
+        "medium",
+        "large"
+      ]
+    },
+    {
+      "name": "Boba Tea",
+      "price": 250,
+      "discounted price": 200,
+      "prep time": 3
+    }
+  ]
+}
