@@ -1,0 +1,6 @@
+brocolli
+rice
+chicken
+cheese
+yogurt
+bananas

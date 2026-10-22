@@ -1,6 +1,7 @@
-This repo contains tutorials of me trying to explore new Python concepts.
+Attempts of me trying to learn new Python concepts 
 
 List of concepts explored:
-- JSON
-- Decorators
-- Memoization
+- json
+- decorators
+- meomoization
+- file handling
