@@ -5,3 +5,4 @@ List of concepts explored:
 - decorators
 - meomoization
 - file handling
+- Fast API
